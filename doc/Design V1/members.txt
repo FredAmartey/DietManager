@@ -1,0 +1,23 @@
+Name: Lowell Pence
+Account: lxp3901
+Have you been on co-op? no
+List 1 to 3 programming languages you know: Java Python JavaScript
+List 1 to 3 hobbies or interests: Augmented-Reality Mobile-Development Photography
+
+Name: Fred Amartey
+Account: fda9891
+Have you been on co-op? yes
+List 1 to 3 programming languages you know: JavaScript PHP Java
+List 1 to 3 hobbies or interests: Skateboarding Soccer Web Development
+
+Name: Fengyi Chen
+Account: fxc1494
+Have you been on co-op? yes
+List 1 to 3 programming languages you know: Python TypeScript Java
+List 1 to 3 hobbies or interests: kendo_practice coding video-game
+
+Name: Jack Old
+Account: jxo4940
+Have you been on co-op? yes
+List 1 to 3 programming languages you know: Java Javascript PHP
+List 1 to 3 hobbies or interests: Synthesizers Music Rock-Climbing

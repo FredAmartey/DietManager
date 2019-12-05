@@ -1,0 +1,8 @@
+*.class
+2191-swen-383-01-b-twnn.iml
+.DS_Store
+.idea/*
+!.idea/2191-swen-383-01-b-twnn.eml
+*.csv
+src/META-INF/MANIFEST.MF
+out
